@@ -31,4 +31,5 @@ The Temperature Converter Web Application allows users to input a temperature va
 
 ---
 
-## 📂 Project Structure
+## 👩‍💻 Author
+**LINI BEL**
